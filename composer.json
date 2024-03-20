@@ -1,0 +1,18 @@
+{
+    "name": "mahesh/composer-hello-world",
+    "description": "Testing hello world",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mahesh\\ComposerHelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mahesh Lakher",
+            "email": "mahesh.lakher88@gmail.com"
+        }
+    ],
+    "require": {}
+}
