@@ -14,5 +14,6 @@
             "email": "mahesh.lakher88@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev" // or "beta", "alpha", etc.
 }
