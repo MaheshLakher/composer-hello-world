@@ -15,5 +15,5 @@
         }
     ],
     "require": {},
-    "minimum-stability": "dev" // or "beta", "alpha", etc.
+    "minimum-stability": "dev"
 }
